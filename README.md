@@ -1,2 +1,2 @@
-# PRactices
+# Practices
 This is Practices Repository 
